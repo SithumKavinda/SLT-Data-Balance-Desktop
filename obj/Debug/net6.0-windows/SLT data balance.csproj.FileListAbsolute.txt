@@ -1,0 +1,17 @@
+D:\Education\Self Learing\C#\SLT databalance\SLT data balance\SLT data balance\bin\Debug\net6.0-windows\SLT data balance.exe
+D:\Education\Self Learing\C#\SLT databalance\SLT data balance\SLT data balance\bin\Debug\net6.0-windows\SLT data balance.deps.json
+D:\Education\Self Learing\C#\SLT databalance\SLT data balance\SLT data balance\bin\Debug\net6.0-windows\SLT data balance.runtimeconfig.json
+D:\Education\Self Learing\C#\SLT databalance\SLT data balance\SLT data balance\bin\Debug\net6.0-windows\SLT data balance.dll
+D:\Education\Self Learing\C#\SLT databalance\SLT data balance\SLT data balance\bin\Debug\net6.0-windows\SLT data balance.pdb
+D:\Education\Self Learing\C#\SLT databalance\SLT data balance\SLT data balance\obj\Debug\net6.0-windows\SLT data balance.csproj.AssemblyReference.cache
+D:\Education\Self Learing\C#\SLT databalance\SLT data balance\SLT data balance\obj\Debug\net6.0-windows\SLT data balance.csproj.GenerateResource.cache
+D:\Education\Self Learing\C#\SLT databalance\SLT data balance\SLT data balance\obj\Debug\net6.0-windows\SLT data balance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Self Learing\C#\SLT databalance\SLT data balance\SLT data balance\obj\Debug\net6.0-windows\SLT data balance.AssemblyInfoInputs.cache
+D:\Education\Self Learing\C#\SLT databalance\SLT data balance\SLT data balance\obj\Debug\net6.0-windows\SLT data balance.AssemblyInfo.cs
+D:\Education\Self Learing\C#\SLT databalance\SLT data balance\SLT data balance\obj\Debug\net6.0-windows\SLT data balance.csproj.CoreCompileInputs.cache
+D:\Education\Self Learing\C#\SLT databalance\SLT data balance\SLT data balance\obj\Debug\net6.0-windows\SLT data balance.dll
+D:\Education\Self Learing\C#\SLT databalance\SLT data balance\SLT data balance\obj\Debug\net6.0-windows\refint\SLT data balance.dll
+D:\Education\Self Learing\C#\SLT databalance\SLT data balance\SLT data balance\obj\Debug\net6.0-windows\SLT data balance.pdb
+D:\Education\Self Learing\C#\SLT databalance\SLT data balance\SLT data balance\obj\Debug\net6.0-windows\SLT data balance.genruntimeconfig.cache
+D:\Education\Self Learing\C#\SLT databalance\SLT data balance\SLT data balance\obj\Debug\net6.0-windows\ref\SLT data balance.dll
+D:\Education\Self Learing\C#\SLT databalance\SLT data balance\SLT data balance\obj\Debug\net6.0-windows\SLT_data_balance.main_form.resources

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "SLT data balance/1.0.0": {
+        "runtime": {
+          "SLT data balance.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SLT data balance/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
